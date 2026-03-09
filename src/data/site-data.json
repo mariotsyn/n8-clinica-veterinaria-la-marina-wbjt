@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Clínica Veterinaria la Marina",
+    "tagline": "Salud y bienestar para tu mejor amigo.",
+    "description": "En Clínica Veterinaria la Marina, nos dedicamos con pasión al cuidado integral de tus mascotas en Denia. Ofrecemos servicios veterinarios de alta calidad, desde medicina preventiva hasta cirugía avanzada, siempre con un trato cercano y profesional. La salud y felicidad de tu compañero peludo es nuestra máxima prioridad.",
+    "phone": "966 42 54 57",
+    "address": "Calle Rap, 3 Carretera las Marinas (Calle Caliente), Carrer Rap, 3, 03700 Denia, Alicante, España",
+    "email": "info@cvlamarina.es",
+    "rating": 4.6,
+    "reviewCount": 125,
+    "hours": ["Monday: 9:30 AM – 1:00 PM, 5:00 – 8:00 PM","Tuesday: 9:30 AM – 1:00 PM, 5:00 – 8:00 PM","Wednesday: 9:30 AM – 1:00 PM, 5:00 – 8:00 PM","Thursday: 9:30 AM – 1:00 PM, 5:00 – 8:00 PM","Friday: 9:30 AM – 1:00 PM, 5:00 – 8:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#4CAF50",
+    "secondary": "#212121",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Confianza y Amor: La Salud de tu Mascota en Denia.",
+    "subheadline": "Tu clínica veterinaria de referencia en Denia. Atención integral y personalizada para asegurar la salud y bienestar de tus seres queridos peludos.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=ATCDNfUCyEuODghQ4jpd-pvcmq8Htv6ycVFL96mxWtsb3ZUBM1P-jEvdXubGGcykL0pqM0flJc3kMnoyBySf3Xv6WWyh4vR6PLhU36AS4yUlxZBdUHoT2YbdRD4qfhAnYlJL16Vp21--9X6KhWD-S7_hv986xmy_DYaXYAEBCNPFDkcVKk_SxU4ahrRxslgbiK7AiEwmXIZgFjK_M6pVFYPsYYFXgL4py7DpL4gwY_MPgDe1WuVkZlWz0VU1oEkogIX6osBRiUQZB2Z6FHkbUpxtar6kGlp4eXYM2oy8Pdr_zANppNMWMZ_a8UDGz860GxCfFzVKoBnmiKjHygM_JV-ILWV1175QYMNl2KvYC6p0tJkooswIoDbBnq8hJumce4T3yjlHpbj8f4j_hATN2bP7gpr9uHRrfGoBuGr5gqiVteOsjkw&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🐾", "title": "Medicina General", "description": "Ofrecemos consultas completas, revisiones y vacunaciones para mantener a tu mascota sana. Detectamos y tratamos enfermedades a tiempo con un enfoque preventivo." },
+    { "icon": "💉", "title": "Cirugía y Diagnóstico", "description": "Equipados con tecnología moderna para diagnósticos precisos y cirugías seguras. Garantizamos el mejor cuidado durante y después de cada procedimiento." },
+    { "icon": "💊", "title": "Farmacia Veterinaria", "description": "Disponemos de una amplia gama de medicamentos y productos especializados para la salud de tus animales. Asesoramiento experto para cada necesidad." },
+    { "icon": "🧼", "title": "Higiene y Nutrición", "description": "Consejos personalizados sobre dietas equilibradas y productos de higiene para el bienestar diario de tu mascota. Ayudamos a que luzcan y se sientan geniales." }
+  ],
+  "about": {
+    "title": "Tu Clínica Veterinaria de Confianza en Denia",
+    "text": "Desde nuestros inicios, en Clínica Veterinaria la Marina, nuestro compromiso ha sido ofrecer un cuidado excepcional y compasivo a cada animal que cruza nuestras puertas. Entendemos que tus mascotas son parte de tu familia, por eso nuestro equipo de profesionales se dedica a proporcionar la atención médica más avanzada con un trato cercano y empático.\n\nUbicados estratégicamente en Calle Rap, 3, somos el punto de referencia para las familias de Denia y la Carretera las Marinas. Nos enorgullece ser un pilar en la comunidad, construyendo relaciones duraderas basadas en la confianza y el respeto. Ven y descubre por qué somos la elección preferida para la salud de tu mascota en Alicante.\n\nInvertimos continuamente en formación y tecnología para asegurar que tus compañeros peludos reciban siempre el mejor diagnóstico y tratamiento posible. Nos apasiona lo que hacemos y eso se refleja en cada consulta.",
+    "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=ATCDNfUCyEuODghQ4jpd-pvcmq8Htv6ycVFL96mxWtsb3ZUBM1P-jEvdXubGGcykL0pqM0flJc3kMnoyBySf3Xv6WWyh4vR6PLhU36AS4yUlxZBdUHoT2YbdRD4qfhAnYlJL16Vp21--9X6KhWD-S7_hv986xmy_DYaXYAEBCNPFDkcVKk_SxU4ahrRxslgbiK7AiEwmXIZgFjK_M6pVFYPsYYFXgL4py7DpL4gwY_MPgDe1WuVkZlWz0VU1oEkogIX6osBRiUQZB2Z6FHkbUpxtar6kGlp4eXYM2oy8Pdr_zANppNMWMZ_a8UDGz860GxCfFzVKoBnmiKjHygM_JV-ILWV1175QYMNl2KvYC6p0tJkooswIoDbBnq8hJumce4T3yjlHpbj8f4j_hATN2bP7gpr9uHRrfGoBuGr5gqiVteOsjkw&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Fachada exterior de Clínica Veterinaria la Marina en Denia." },
+    { "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80", "alt": "Veterinario examinando cuidadosamente a un perro durante una consulta." },
+    { "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80", "alt": "Mascota recibiendo atención médica y cariño en la clínica veterinaria." }
+  ],
+  "testimonials": [
+    { "name": "María López", "stars": 5, "text": "Excelente trato y profesionalidad. Mi perro se siente muy cómodo y siempre lo cuidan de maravilla. ¡Totalmente recomendable!" },
+    { "name": "Juan García", "stars": 5, "text": "Llevo años trayendo a mis gatos aquí y siempre me dan el mejor servicio. Son muy atentos y explican todo con claridad." },
+    { "name": "Laura Fernández", "stars": 4, "text": "Muy buena clínica. Los veterinarios son muy amables y se nota que les encantan los animales. La atención es impecable." }
+  ],
+  "contact": {
+    "title": "¿Necesita ayuda su mascota? ¡Contáctenos!",
+    "subtitle": "Estaremos encantados de atenderle y resolver cualquier duda, priorizando siempre el bienestar de su compañero.",
+    "whatsappNumber": "34966425457",
+    "showMap": true,
+    "mapQuery": "Clínica Veterinaria la Marina Calle Rap, 3 Carretera las Marinas (Calle Caliente), Carrer Rap, 3, 03700 Denia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clínica Veterinaria la Marina"
+  }
+}
